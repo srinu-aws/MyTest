@@ -1,5 +1,7 @@
 class Student {
-  int age;
+  string name;
   string gender;
+  int age;
   boolean cgpa;
+  double fee;
 }
